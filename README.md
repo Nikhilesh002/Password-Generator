@@ -1,4 +1,4 @@
-#Password Generator
+# Password Generator
 <br>
 <img src="./assets/Password Generator SnapShot.png" alt="Getting started" />
 <br>
